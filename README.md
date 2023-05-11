@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason01180118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://wakatime.com/share/@jason01180118/7f458c2c-0fdf-4050-9ace-c3060d8d17a3.svg)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=73685101)
 
