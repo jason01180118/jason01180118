@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason01180118&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason01180118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jason01180118&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://wakatime.com/share/@jason01180118/677ae358-46c2-4e39-ac59-9820ca8b3bb1.svg)
 
